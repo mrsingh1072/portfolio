@@ -26,8 +26,6 @@ const certifications = [
     credentialUrl: "https://www.credly.com/badges/c212f675-c431-4094-a967-6e295da1e8b8/public_url"
   },
   {
-
-  
     id: 3,
     title: "Java SE 17 Developer",
     issuer: "Oracle",
