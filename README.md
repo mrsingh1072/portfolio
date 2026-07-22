@@ -3,7 +3,7 @@
   <p>A fast, modern, and responsive developer portfolio website built using <strong>React</strong>, <strong>Vite</strong>, and <strong>Tailwind CSS</strong>.</p>
 
   <p>
-    <a href="https://portfolio-five-lyart-85.vercel.app/"><strong>🌐 Live Demo</strong></a> ·
+    <a href="https://portfolio-iota-one-b5xg2kawml.vercel.app/"><strong>🌐 Live Demo</strong></a> ·
     <a href="https://github.com/mrsingh1072/Portfolio"><strong>🔗 Source Code</strong></a>
   </p>
 
