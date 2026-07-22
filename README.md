@@ -33,8 +33,8 @@ This portfolio is designed to showcase projects, skills, and professional experi
 
 | Home Page | Other Sections |
 | :---: | :---: |
-| ![Home](sampleimage/sample1.png) | ![Section](sampleimage/sample3.png) |
-| ![Home](sampleimage/sample2.png) | ![Section](sampleimage/sample4.png) |
+| ![Home](sampleimage/home.png) | ![Projects](sampleimage/projects.png) |
+| ![Skills](sampleimage/skills.png) | ![Contact](sampleimage/contact.png) |
 
 *(Add your actual screenshots to the `sampleimage` folder for these to display correctly!)*
 
