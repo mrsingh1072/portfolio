@@ -1,10 +1,10 @@
 <div align="center">
-  <h1>💼 Ayush Kumar – Developer Portfolio</h1>
+  <h1>💼 Saurabh Kumar – Developer Portfolio</h1>
   <p>A fast, modern, and responsive developer portfolio website built using <strong>React</strong>, <strong>Vite</strong>, and <strong>Tailwind CSS</strong>.</p>
 
   <p>
     <a href="https://portfolio-five-lyart-85.vercel.app/"><strong>🌐 Live Demo</strong></a> ·
-    <a href="https://github.com/ayush-244/Portfolio"><strong>🔗 Source Code</strong></a>
+    <a href="https://github.com/mrsingh1072/Portfolio"><strong>🔗 Source Code</strong></a>
   </p>
 
   <p>
@@ -46,7 +46,7 @@ To get a local copy up and running, follow these simple steps:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/ayush-244/Portfolio.git
+git clone https://github.com/mrsingh1072/Portfolio.git
 cd Portfolio
 ```
 
@@ -90,13 +90,13 @@ This project is optimized and ready to be deployed on platforms like:
 
 Let's build something amazing together!
 
-- **LinkedIn:** [Ayush Kumar](https://www.linkedin.com/in/ayush-kumar-294b2028a/)
-- **Email:** [ayushku244@gmail.com](mailto:ayushku244@gmail.com)
-- **GitHub:** [@ayush-244](https://github.com/ayush-244)
+- **LinkedIn:** [Saurabh Kumar](https://www.linkedin.com/in/saurabh-singh-959b48323/)
+- **Email:** [Saurabhkumar08843@gmail.com](mailto:Saurabhkumar08843@gmail.com)
+- **GitHub:** [@mrsingh1072](https://github.com/mrsingh1072)
 
 ---
 
 <div align="center">
-  <p><b>Made with ❤️ by Ayush Kumar</b></p>
+  <p><b>Made with ❤️ by Saurabh Kumar</b></p>
   <p>⭐ Star this repository if you found it useful!</p>
 </div>
