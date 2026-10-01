@@ -148,7 +148,7 @@ export const HeroSection = () => {
               </motion.a>
               
               <motion.a 
-                href="/frontend/public/saurabh_rokstar.pdf"
+                href="resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group relative overflow-hidden px-6 py-4 rounded-xl font-semibold border border-border text-muted-foreground hover:border-primary/30 transition-all duration-300 bg-background/60 backdrop-blur-sm text-sm flex items-center justify-center gap-2" 
