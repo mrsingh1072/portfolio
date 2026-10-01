@@ -62,6 +62,22 @@ const projects = [
     accentColor: "from-amber-500 to-orange-600",
     status: "Development",
     highlights: ["Spam Detection", "NLP Processing", "Automated Categorization"]
+  },
+  {
+  id: 4,
+  title: "RepoLens-AI",
+  category: "AI / Developer Tools",
+  description:
+    "An AI-powered repository intelligence platform that analyzes GitHub repositories using hybrid vector and graph retrieval, allowing developers to understand codebases, trace request flows, explore dependencies, and get grounded answers with source-level citations.",
+  image: `${import.meta.env.BASE_URL}projects/project4.png`,
+  video: "#",
+  tags: ["React","TypeScript","FastAPI","Python","LangGraph","ChromaDB","Neo4j","Redis","Docker"],
+  demoUrl: "#",
+  githubUrl: "https://github.com/mrsingh1072/RepoLens-AI",
+  featured: true,
+  accentColor: "from-amber-500 to-orange-600",
+  status: "Development",
+  highlights: ["Hybrid Vector + Graph Retrieval","AI Codebase Intelligence","Architecture & Dependency Analysis","Source-Level Code Citations"]
   }
 ];
 
